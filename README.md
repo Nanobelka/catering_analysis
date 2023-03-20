@@ -1,6 +1,6 @@
 # [Исследование рынка общественного питания Москвы](https://nbviewer.jupyter.org/github/Nanobelka/catering_analysis/blob/main/catering_analysis.ipynb)
 
-## [Презентация](https://nbviewer.jupyter.org/github/Nanobelka/catering_analysis/blob/main/presentation.pdf)
+## [Презентация](https://docs.google.com/viewer?url=https://github.com/Nanobelka/catering_analysis/blob/main/presentation.pdf)
 
 ### Был исследован вопрос — будет ли успешным и популярным на долгое время кафе, в котором гостей обслуживают роботы-официанты. По результатам анализа подготовлена презентация для инвесторов. В построении графиков использованы библиотеки seaborn и plotly. Также потребовалось получить район расположения кафе-конкурентов. Эта задача решена с помощью внешнего источника данных.
 
